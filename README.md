@@ -6,33 +6,11 @@ Welcome to my personal learning repository for Vue.js! This repository contains 
 
 This repository documents my learning process with Vue.js. You'll find various projects and examples that I created while exploring the framework. The goal is to provide a comprehensive resource for myself and others who want to learn Vue.js.
 
-## Setup
-
-To get started with the projects in this repository, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/najmul-islam/vue.js.git
-   cd vue.js
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run serve
-   ```
-
 ## Branches for Learning Tutorials
 
 I have created multiple branches in this repository, each dedicated to a different Vue.js tutorial. You can switch between these branches to explore the code and concepts covered in each tutorial. Here are the branches and their descriptions:
 
-- **main**: The main branch containing general notes and resources.
+- **main**: The main branch contains general notes and resources.
 - **geeky-shows**: [Vue.js for beginner](https://github.com/najmul-islam/vue.js/tree/geeky-shows) - Basic Vue.js concepts and setup.
 
 ## Contributing
