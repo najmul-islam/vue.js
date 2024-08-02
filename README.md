@@ -28,6 +28,13 @@ To get started with the projects in this repository, follow these steps:
    npm run serve
    ```
 
+## Branches for Learning Tutorials
+
+I have created multiple branches in this repository, each dedicated to a different Vue.js tutorial. You can switch between these branches to explore the code and concepts covered in each tutorial. Here are the branches and their descriptions:
+
+- **main**: The main branch containing general notes and resources.
+- **geeky-shows**: [Vue.js for beginner](https://github.com/najmul-islam/vue.js/tree/geeky-shows) - Basic Vue.js concepts and setup.
+
 ## Contributing
 
 If you have any suggestions or improvements, feel free to create an issue or submit a pull request. All contributions are welcome!
