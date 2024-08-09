@@ -12,6 +12,7 @@ I have created multiple branches in this repository, each dedicated to a differe
 
 - **main**: The main branch contains general notes and resources.
 - **geeky-shows**: [Vue.js for beginner](https://github.com/najmul-islam/vue.js/tree/geeky-shows) - Basic Vue.js concepts and setup.
+- **traversy-media-2024**: [Vue.js crash course 2024](https://github.com/najmul-islam/vue.js/tree/traversy-media-2024) - Basic vue.js with project.
 
 ## Contributing
 
