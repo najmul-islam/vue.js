@@ -11,8 +11,10 @@ This repository documents my learning process with Vue.js. You'll find various p
 I have created multiple branches in this repository, each dedicated to a different Vue.js tutorial. You can switch between these branches to explore the code and concepts covered in each tutorial. Here are the branches and their descriptions:
 
 - **main**: The main branch contains general notes and resources.
-- **geeky-shows**: [Vue.js for beginner](https://github.com/najmul-islam/vue.js/tree/geeky-shows) - Basic Vue.js concepts and setup.
-- **traversy-media-2024**: [Vue.js crash course 2024](https://github.com/najmul-islam/vue.js/tree/traversy-media-2024) - Basic vue.js with project.
+- [**geeky-shows**](https://github.com/najmul-islam/vue.js/tree/geeky-shows): [Vue.js for beginner - Basic Vue.js concepts and setup.](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui)
+- [**traversy-media-2024**](https://github.com/najmul-islam/vue.js/tree/traversy-media-2024): [Vue.js crash course 2024](https://youtu.be/VeNfHj6MhgA?si=aZB3v0GM46lMpWI9)
+- [**traversy-media-2021**](https://github.com/najmul-islam/vue.js/tree/traversy-media-2021): [Vue JS Crash Course 2021](https://youtu.be/qZXt1Aom3Cs?si=CK0q1pPVFgfVzXTW)
+- [**traversy-media-2019**](https://github.com/najmul-islam/vue.js/tree/traversy-media-2019): [Vue.js crash course 2019](https://youtu.be/Wy9q22isx3U?si=NVsoIZrXIFWAqEeL)
 
 ## Contributing
 
