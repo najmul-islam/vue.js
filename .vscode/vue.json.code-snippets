@@ -1,0 +1,60 @@
+{
+  "Vue Script Setup": {
+    "prefix": "script",
+    "body": ["<script setup>", "$1", "</script>"],
+    "description": "Vue 3 Script Setup block"
+  },
+  "Vue Template": {
+    "prefix": "template",
+    "body": ["<template>", "  <div>$1</div>", "</template>"],
+    "description": "Vue 3 Template block"
+  },
+  "Vue Scoped Style": {
+    "prefix": "style",
+    "body": ["<style scoped>", "$1", "</style>"],
+    "description": "Vue 3 Scoped Style block"
+  },
+  "Vue Script Setup and Template": {
+    "prefix": "vst",
+    "body": [
+      "<script setup>",
+      "$2",
+      "</script>",
+      "",
+      "<template>",
+      "  <div>$1</div>",
+      "</template>"
+    ],
+    "description": "Vue 3 Script Setup and Template block"
+  },
+  "Vue Template and Style": {
+    "prefix": "vts",
+    "body": [
+      "<template>",
+      "  <div>$1</div>",
+      "</template>",
+      "",
+      "<style scoped>",
+      "$2",
+      "</style>"
+    ],
+    "description": "Vue 3 Template and Scoped Style block"
+  },
+  "Vue Script Setup Component": {
+    "prefix": "vsts",
+    "body": [
+      "<script setup>",
+      "",
+      "</script>",
+      "",
+      "<template>",
+      "  <div>$1</div>",
+      "</template>",
+      "",
+      "<style scoped>",
+      "",
+      "</style>"
+    ],
+    "description": "Vue 3 Script Setup Component"
+  }
+}
