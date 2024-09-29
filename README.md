@@ -15,6 +15,7 @@ I have created multiple branches in this repository, each dedicated to a differe
 - [**traversy-media-2024**](https://github.com/najmul-islam/vue.js/tree/traversy-media-2024): [Vue.js crash course 2024](https://youtu.be/VeNfHj6MhgA?si=aZB3v0GM46lMpWI9)
 - [**traversy-media-2021**](https://github.com/najmul-islam/vue.js/tree/traversy-media-2021): [Vue JS Crash Course 2021](https://youtu.be/qZXt1Aom3Cs?si=CK0q1pPVFgfVzXTW)
 - [**traversy-media-2019**](https://github.com/najmul-islam/vue.js/tree/traversy-media-2019): [Vue.js crash course 2019](https://youtu.be/Wy9q22isx3U?si=NVsoIZrXIFWAqEeL)
+- [**envato-tuts**](https://github.com/najmul-islam/vue.js/tree/envato-tuts): [Vue.js Tutorial: Beginner to Front-End Developer](https://youtu.be/1GNsWa_EZdw?si=EnVYDB6eutze63Lf)
 
 ## Contributing
 
